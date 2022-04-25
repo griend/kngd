@@ -1,2 +1,1 @@
-# kngd
-kngd / kingdom - Django website
+# kngd / kingdom - Django website
